@@ -5,7 +5,7 @@ import math
 
 from newspaper import Article
  
-url = "https://www.aplustopper.com/article-on-women-empowerment/"
+url = "https://www.aplustopper.com/article-on-women-empowerment/" #Insert required Article URL here
 
 article = Article(url)
 article.download()
