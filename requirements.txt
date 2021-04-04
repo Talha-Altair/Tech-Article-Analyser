@@ -1,0 +1,3 @@
+The Necessary Python Modules for this App to Function:
+    NLTK
+    newspaper
